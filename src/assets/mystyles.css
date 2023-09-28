@@ -1,0 +1,171 @@
+.nav-container{
+    background-color: darkgrey;
+    text-align: center;
+    font-size:2vw;
+    padding: 8px;
+    margin-top: 7px;
+    display: block;
+    width: 100%;
+    color: darkred;
+}
+
+.nav-link{
+    background-color: darkgrey;
+    text-align: center;
+    font-size:2vw;
+    padding: 8px;
+    margin-top: 7px;
+    /* display: block; */
+    width: 100%;
+    color: darkred;
+}
+
+.page-container{
+    background-color: darkgray;
+    padding: 5px;
+    margin-top: 7px;
+    display: block;
+    width: 100%;
+    color: darkred;
+}
+
+.amazing-footer{
+    background-color: #e5e5e5;
+    text-align: center;
+    padding: 5px;
+    margin-top: 7px;
+    display: block;
+    width: 100%;
+    color: darkred;
+}
+
+.footer-content{
+    background-color: #e5e5e5;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    color: darkred;
+}
+
+.footer-section{
+    background-color: #e5e5e5;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    color: darkred;
+}
+
+.footer-bottom{
+    background-color: #e5e5e5;
+    font-size: 20px;
+    text-align: center;
+    /* display: block; */
+    width: 100%;
+    color: darkred;
+}
+
+.project-vue {
+    background-color: #c6c0c0;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    width: 100%;
+    color: darkred;
+}
+
+.about-content {
+    text-align: center;
+}
+
+.profile-image {
+    text-align: center;
+}
+
+.social-icons {
+    text-align: center;
+}
+
+.intro {
+    text-align: center;
+}
+
+.project-list{
+    text-align:left;
+}
+
+h1 {
+    font-size: 3vw;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.5vw;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2.0vw;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.8vw;
+    text-align: center;
+}
+
+p {
+    font-size: 1.8vw;
+    text-align: center;
+}
+
+li {
+    background: #e5e5e5;
+    color: darkred;
+    display: block;
+}
+
+dl {
+    font-size: 0.2vw;
+    background: #e5e5e5;
+    color: darkred;
+    display: block;
+}
+
+a:visited {
+    color:green
+}
+
+a:hover {
+    color: hotpink;
+    background-color: #e5e5e5;
+}
+
+button {
+    font-size: 1.3vw;
+}
+
+a {
+    font-size: 1.3vw;
+    text-align: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    font-size: 2.25vw;
+    text-align: center;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+    text-align: center;
+  }
